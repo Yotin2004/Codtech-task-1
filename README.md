@@ -8,7 +8,6 @@ MENTOR- NEELA SANTHOSH KUMAR
 DURATION- 8JULY TO 8AUG 2025
 TOPIC- DATA HANDLING 
 
-
 # Objective
 
 ## To write a C program that demonstrates file operations including:
